@@ -1,5 +1,5 @@
 # LifespanQR
-Academical Android app that allows users to track the expiry date of the ingredients they buy.
+Academic Android app that allows users to track the expiry date of the ingredients they buy.
 
 - Supermarket staff can generate and export QR Codes that contain the name, brand and expiry date of an ingredient
 - Customers can later scan these QR Codes in-app
