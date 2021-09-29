@@ -8,4 +8,4 @@ Academical Android app that allows users to track the expiry date of the ingredi
 - Offline items will be syched with the cloud when the user signs in or goes back online
 - Ingredients can be marked/unmarked as consumed or deleted
 
-Short ad, for academical purposes: https://github.com/AlexisN94/LifespanQR/blob/main/advertisement.mp4
+Short ad, for academical purposes: https://www.dropbox.com/sh/muz5f3di04jnare/AADtrqh7728hoH2RgYbGmzKJa?dl=0
