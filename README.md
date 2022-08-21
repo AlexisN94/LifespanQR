@@ -8,11 +8,10 @@ Android app developed for academic purposes that would allow users to track the 
 - Offline items will be syched with the cloud when the user signs in or goes back online
 - Ingredients can be marked/unmarked as consumed or deleted
 
-Short advertisement, also for academic purposes: https://www.dropbox.com/sh/muz5f3di04jnare/AADtrqh7728hoH2RgYbGmzKJa?dl=0&preview=advertisement.mp4
+#### Short advertisement, also for academic purposes:
+https://user-images.githubusercontent.com/63371666/185807600-971a3b0d-3000-4b78-b9c3-a16d00e75d0c.mp4
 
-Screenshots
------------
-
+## Screenshots
 <div>
 <img src="/Screenshots/01_start.jpg" width="300" >
 <img src="/Screenshots/02_login.jpg" width="300" >
