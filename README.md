@@ -6,7 +6,8 @@ Android app developed for academic purposes that would allow users to track the 
 - Scanning a QR Code allows users to add the ingredient to their list. Optionally, an event for the expiry date will be added to the device's calendar
 - If the user is signed in, the ingredient list is stored online (Google Realtime Database), otherwise it is stored offline
 - Offline items will be synched with the cloud when the user signs in or goes back online
-- Ingredients can be marked/unmarked as consumed or deleted
+- Ingredients can be deleted or marked/unmarked as consumed
+- Expired ingredientes will automatically be marked as expired and cannot be unmarked
 
 #### Short advertisement, also for academic purposes:
 https://user-images.githubusercontent.com/63371666/185807600-971a3b0d-3000-4b78-b9c3-a16d00e75d0c.mp4
